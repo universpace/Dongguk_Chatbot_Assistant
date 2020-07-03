@@ -1,0 +1,52 @@
+{
+  "description": "동국대학교챗봇",
+  "language": "ko",
+  "disableInteractionLogs": false,
+  "disableStackdriverLogs": true,
+  "googleAssistant": {
+    "googleAssistantCompatible": true,
+    "project": "donggukcb",
+    "welcomeIntentSignInRequired": false,
+    "startIntents": [
+      {
+        "intentId": "69b0f984-1206-4bb9-999e-40ef1b1de67d",
+        "signInRequired": false
+      },
+      {
+        "intentId": "9d222f3a-6652-4899-802a-61ce61fb0314",
+        "signInRequired": true
+      }
+    ],
+    "systemIntents": [],
+    "endIntentIds": [],
+    "oAuthLinking": {
+      "required": false,
+      "grantType": "AUTH_CODE_GRANT"
+    },
+    "voiceType": "MALE_1",
+    "capabilities": [],
+    "protocolVersion": "V2",
+    "autoPreviewEnabled": true,
+    "isDeviceAgent": false
+  },
+  "defaultTimezone": "Asia/Tokyo",
+  "webhook": {
+    "url": "https://7995bc99.ngrok.io",
+    "headers": {
+      "": ""
+    },
+    "available": true,
+    "useForDomains": true,
+    "cloudFunctionsEnabled": false,
+    "cloudFunctionsInitialized": true
+  },
+  "isPrivate": true,
+  "customClassifierMode": "use.after",
+  "mlMinConfidence": 0.3,
+  "supportedLanguages": [],
+  "onePlatformApiVersion": "v1legacy",
+  "analyzeQueryTextSentiment": false,
+  "enabledKnowledgeBaseNames": [],
+  "knowledgeServiceConfidenceAdjustment": -0.4,
+  "dialogBuilderMode": false
+}

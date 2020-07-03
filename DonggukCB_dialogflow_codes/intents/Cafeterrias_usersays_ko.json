@@ -1,0 +1,303 @@
+[
+  {
+    "id": "e61e3b72-f8cd-4868-8c00-a214101050c7",
+    "data": [
+      {
+        "text": "상록원",
+        "alias": "dining_place",
+        "meta": "@dining_place",
+        "userDefined": false
+      },
+      {
+        "text": " 메뉴 뭐야",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "47951f45-1147-4716-b3bc-2d6c0a919e12",
+    "data": [
+      {
+        "text": "학식",
+        "alias": "dining_place",
+        "meta": "@dining_place",
+        "userDefined": false
+      },
+      {
+        "text": " 뭐야",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "c20645ca-1aa1-4271-89b8-64dc15e026d2",
+    "data": [
+      {
+        "text": "긱식 뭐야",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "04958cc4-11a6-4045-ba37-dbdc612c9206",
+    "data": [
+      {
+        "text": "학식",
+        "alias": "dining_place",
+        "meta": "@dining_place",
+        "userDefined": false
+      },
+      {
+        "text": " 뭐나와",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "4ca964e1-a4d4-4340-9c7d-a981f19215f3",
+    "data": [
+      {
+        "text": "학식",
+        "alias": "dining_place",
+        "meta": "@dining_place",
+        "userDefined": false
+      },
+      {
+        "text": " 메뉴",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "41e35ba5-c48b-46ce-868d-5296fb4785b2",
+    "data": [
+      {
+        "text": "남산학사",
+        "alias": "dining_place",
+        "meta": "@dining_place",
+        "userDefined": false
+      },
+      {
+        "text": " 푸드코트",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "eac2f5e1-c34a-4e98-b700-fe5245acbe9c",
+    "data": [
+      {
+        "text": "상록원",
+        "alias": "dining_place",
+        "meta": "@dining_place",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "fe856a00-9f80-4a1a-85f8-91122f2beea6",
+    "data": [
+      {
+        "text": "상록원",
+        "alias": "dining_place",
+        "meta": "@dining_place",
+        "userDefined": false
+      },
+      {
+        "text": " 메뉴",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "64387bab-2c28-41c7-b1e2-b902bb44ad73",
+    "data": [
+      {
+        "text": "상록원",
+        "alias": "dining_place",
+        "meta": "@dining_place",
+        "userDefined": false
+      },
+      {
+        "text": " 뭐나와",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "acfa6e23-3ef0-4597-9289-d77f799ec027",
+    "data": [
+      {
+        "text": "가든쿡",
+        "alias": "dining_place",
+        "meta": "@dining_place",
+        "userDefined": false
+      },
+      {
+        "text": " 뭐나와",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "cc2d1a6a-5da9-4356-a235-dd746fa4e5cd",
+    "data": [
+      {
+        "text": "기숙사식당",
+        "alias": "dining_place",
+        "meta": "@dining_place",
+        "userDefined": false
+      },
+      {
+        "text": " 메뉴 알려줘",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "6667d217-81e0-4d61-aeef-5e837fc4ef95",
+    "data": [
+      {
+        "text": "그루터기",
+        "alias": "dining_place",
+        "meta": "@dining_place",
+        "userDefined": false
+      },
+      {
+        "text": " 메뉴 알려줘",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "a33ff328-f105-4827-83ae-94a04c3dfa1e",
+    "data": [
+      {
+        "text": "그루터기",
+        "alias": "dining_place",
+        "meta": "@dining_place",
+        "userDefined": false
+      },
+      {
+        "text": " 갈래",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "16b7d266-0629-459b-8d78-171d6eaa9901",
+    "data": [
+      {
+        "text": "가든쿡",
+        "alias": "dining_place",
+        "meta": "@dining_place",
+        "userDefined": false
+      },
+      {
+        "text": " 메뉴",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "e5276986-b380-46dc-afcb-cdf7cc9b13d0",
+    "data": [
+      {
+        "text": "가든쿡",
+        "alias": "dining_place",
+        "meta": "@dining_place",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "0a2feb21-d9be-4b15-aa0c-3c1fee17e601",
+    "data": [
+      {
+        "text": "솥앤누들",
+        "alias": "dining_place",
+        "meta": "@dining_place",
+        "userDefined": true
+      },
+      {
+        "text": " 메뉴",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "b769c0f6-54e2-425f-920c-0a5e03cfeb59",
+    "data": [
+      {
+        "text": "긱식",
+        "alias": "dining_place",
+        "meta": "@dining_place",
+        "userDefined": true
+      },
+      {
+        "text": "메뉴",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "7cf79405-a583-4c12-8f36-aa5f26b02c67",
+    "data": [
+      {
+        "text": "긱식",
+        "alias": "dining_place",
+        "meta": "@dining_place",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "7b2db227-0c53-4002-bff4-0063f55b2c41",
+    "data": [
+      {
+        "text": "솥앤누들",
+        "alias": "dining_place",
+        "meta": "@dining_place",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

@@ -1,0 +1,25 @@
+[
+  {
+    "id": "e77bf182-f565-4a43-9c22-11e3e68f875a",
+    "data": [
+      {
+        "text": "신공학관",
+        "alias": "DG_Locate",
+        "meta": "@DG_Locate",
+        "userDefined": false
+      },
+      {
+        "text": " 에서 ",
+        "userDefined": false
+      },
+      {
+        "text": "학생회관",
+        "alias": "DG_Locate1",
+        "meta": "@DG_Locate",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

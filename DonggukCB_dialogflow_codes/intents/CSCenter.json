@@ -1,0 +1,27 @@
+{
+  "id": "5dad3073-1547-4bdf-94ab-439d0d91cd20",
+  "name": "CSCenter",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "ko",
+          "speech": "동국 CS센터에는 핸드폰 충전, 학생증 발급/재발급, 우천시 우산 대여 등을 해주고 있답니다. 필요할 때 이용해 보세요!"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

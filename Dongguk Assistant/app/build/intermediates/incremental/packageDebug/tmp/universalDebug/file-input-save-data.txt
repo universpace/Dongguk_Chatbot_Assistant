@@ -1,0 +1,31 @@
+#Internal package file, do not edit.
+#Wed Jun 19 16:59:01 KST 2019
+2.base=C\:\\Users\\psj\\Desktop\\android\\kakao-android-sdk-speech\\app\\build\\intermediates\\transforms\\mergeJniLibs\\debug\\0
+5.set=DEX
+0.path=classes2.dex
+2.baseType=DIRECTORY
+3.base=C\:\\Users\\psj\\Desktop\\android\\kakao-android-sdk-speech\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\1
+2.set=NATIVE_RESOURCE
+1.path=lib/armeabi-v7a/libdialoid-apklib.so
+4.base=C\:\\Users\\psj\\Desktop\\android\\kakao-android-sdk-speech\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+count=7
+5.baseType=DIRECTORY
+2.path=lib/arm64-v8a/libdialoid-apklib.so
+5.base=C\:\\Users\\psj\\Desktop\\android\\kakao-android-sdk-speech\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\1
+4.set=DEX
+3.path=classes.dex
+6.base=C\:\\Users\\psj\\Desktop\\android\\kakao-android-sdk-speech\\app\\build\\intermediates\\transforms\\mergeJniLibs\\debug\\0
+3.baseType=DIRECTORY
+1.set=NATIVE_RESOURCE
+4.path=classes.dex
+6.set=NATIVE_RESOURCE
+1.baseType=DIRECTORY
+6.baseType=DIRECTORY
+5.path=classes3.dex
+0.base=C\:\\Users\\psj\\Desktop\\android\\kakao-android-sdk-speech\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\1
+0.baseType=DIRECTORY
+3.set=DEX
+6.path=lib/armeabi/libdialoid-apklib.so
+1.base=C\:\\Users\\psj\\Desktop\\android\\kakao-android-sdk-speech\\app\\build\\intermediates\\transforms\\mergeJniLibs\\debug\\0
+4.baseType=DIRECTORY
+0.set=DEX

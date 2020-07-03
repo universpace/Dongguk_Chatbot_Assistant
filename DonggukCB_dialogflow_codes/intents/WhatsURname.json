@@ -1,0 +1,30 @@
+{
+  "id": "9d222f3a-6652-4899-802a-61ce61fb0314",
+  "name": "WhatsURname",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "ko",
+          "speech": [
+            "저는 아코입니다~!",
+            "저는 동국대의 마스코트, 아코입니다!"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

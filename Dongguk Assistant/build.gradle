@@ -1,0 +1,40 @@
+buildscript {
+    repositories {
+        jcenter()
+        google()
+    }
+
+    dependencies {
+        classpath 'com.android.tools.build:gradle:3.4.1'
+    }
+}
+
+
+subprojects {
+    repositories {
+        google()
+        jcenter()
+        mavenCentral()
+        mavenLocal()
+        maven { url 'http://repo.maven.apache.org/maven2' }
+        // kakao api
+        maven { url 'http://devrepo.kakao.com:8088/nexus/content/groups/public/' } // 추가
+        maven { url "https://oss.sonatype.org/content/repositories/snapshots" }
+
+    }
+}
+
+allprojects {
+    repositories {
+        google()
+        jcenter()
+        maven {
+            url "https://maven.google.com"
+        }
+        maven { url "https://jitpack.io" }
+    }
+}
+
+repositories {
+    google()
+}

@@ -1,0 +1,50 @@
+{
+  "id": "c421cf49-70b6-41eb-a241-c4945eeac7f4",
+  "parentId": "ac8314d9-0078-4592-b391-4a316d2b96e3",
+  "rootParentId": "ac8314d9-0078-4592-b391-4a316d2b96e3",
+  "name": "Route-requst",
+  "auto": true,
+  "contexts": [
+    "Route-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "RouteRequest",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "895ec30c-3439-46bd-bf6f-3493bb6feb55",
+          "required": true,
+          "dataType": "@DG_Locate",
+          "name": "DG_Locate",
+          "value": "$DG_Locate",
+          "isList": false
+        },
+        {
+          "id": "f9904031-dde5-4b43-a2e7-665a90b85074",
+          "required": true,
+          "dataType": "@DG_Locate",
+          "name": "DG_Locate1",
+          "value": "$DG_Locate1",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "ko",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1508189119621,
+  "fallbackIntent": false,
+  "events": []
+}

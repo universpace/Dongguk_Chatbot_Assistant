@@ -1,0 +1,33 @@
+{
+  "id": "36eafdf4-58dd-4b66-b168-fd1ac2efd6c2",
+  "name": "Default Fallback Intent",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "input.unknown",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "ko",
+          "speech": [
+            "수행할 수 없는 명령입니다.",
+            "그건 좀...",
+            "몰라요",
+            "이상한거 시키지 마요"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": true,
+  "events": []
+}

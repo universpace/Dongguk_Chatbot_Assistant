@@ -1,0 +1,44 @@
+[
+  {
+    "id": "0d72f3f2-edd2-4e84-bc9a-e77c47baa4fc",
+    "data": [
+      {
+        "text": "너 누구야!",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "2e7d090e-83e7-49e7-9de0-0492be411180",
+    "data": [
+      {
+        "text": "이름",
+        "userDefined": false
+      },
+      {
+        "text": "이",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " 뭐야?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "9877c9d7-f0a1-4a80-ad02-fb68e17a4c30",
+    "data": [
+      {
+        "text": "너의 이름은 뭐니?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

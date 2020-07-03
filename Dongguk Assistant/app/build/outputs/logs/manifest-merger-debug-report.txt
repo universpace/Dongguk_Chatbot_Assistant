@@ -1,0 +1,221 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\psj\Desktop\android\kakao-android-sdk-speech\app\src\main\AndroidManifest.xml:2:1-43:12
+INJECTED from C:\Users\psj\Desktop\android\kakao-android-sdk-speech\app\src\main\AndroidManifest.xml:2:1-43:12
+INJECTED from C:\Users\psj\Desktop\android\kakao-android-sdk-speech\app\src\main\AndroidManifest.xml:2:1-43:12
+INJECTED from C:\Users\psj\Desktop\android\kakao-android-sdk-speech\app\src\main\AndroidManifest.xml:2:1-43:12
+MERGED from [com.android.support:multidex:1.0.2] C:\Users\psj\.gradle\caches\transforms-2\files-2.1\7b99e248b769d23210096148eba7fcf4\AndroidManifest.xml:17:1-22:12
+MERGED from [com.kakao.sdk:newtone:6.0.1] C:\Users\psj\.gradle\caches\transforms-2\files-2.1\87befee0c9ba778f0ad1e5feb281b6fa\AndroidManifest.xml:2:1-16:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\psj\.gradle\caches\transforms-2\files-2.1\d5923f091ce5080b76cea58c3ef4f1d5\AndroidManifest.xml:17:1-22:12
+MERGED from [ai.api:sdk:2.0.7] C:\Users\psj\.gradle\caches\transforms-2\files-2.1\a1523f98c1ebcc6f5b545c93bf7e817d\AndroidManifest.xml:2:1-13:12
+MERGED from [com.kakao.sdk:newtone.core:1.1.1.OpenApi] C:\Users\psj\.gradle\caches\transforms-2\files-2.1\331f55ad80d27e979f8cde72133a2ae9\AndroidManifest.xml:2:1-10:12
+MERGED from [com.kakao.sdk:network:1.1.36] C:\Users\psj\.gradle\caches\transforms-2\files-2.1\8ca3e1588d8a3d3cf12b372ec4087b86\AndroidManifest.xml:2:1-12:12
+MERGED from [com.kakao.sdk:util:1.2.2] C:\Users\psj\.gradle\caches\transforms-2\files-2.1\54e42d39b0d701164bfc0fd9eba4c0ac\AndroidManifest.xml:2:1-15:12
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\psj\.gradle\caches\transforms-2\files-2.1\86a7401587cc952311ad78ebe595f1a8\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\psj\.gradle\caches\transforms-2\files-2.1\7fd7a0202fd20da589709bae727e1e08\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\psj\.gradle\caches\transforms-2\files-2.1\34dffbbb29bd296ca8fa25312b7e8240\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\psj\.gradle\caches\transforms-2\files-2.1\ff460e25af1b56ddd34daad6f2eee907\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\psj\.gradle\caches\transforms-2\files-2.1\af41ad2ba81bcaea0609058113e26b6c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] C:\Users\psj\.gradle\caches\transforms-2\files-2.1\40fc6c74e385c6aed4c0d3c19e0b5d86\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\psj\.gradle\caches\transforms-2\files-2.1\9c2e97227ce620bd5efed7126ad631f3\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\psj\.gradle\caches\transforms-2\files-2.1\68de24a02e26d036d108ffc96d5bb9a9\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\psj\.gradle\caches\transforms-2\files-2.1\ac083c63bf05cf0e2ad808a12ef53e0f\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\psj\.gradle\caches\transforms-2\files-2.1\9d19b606db68daa712ab8841e172c66e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] C:\Users\psj\.gradle\caches\transforms-2\files-2.1\7ad0526caf52e83f17c100dbe6ea344e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\psj\.gradle\caches\transforms-2\files-2.1\e276eed1802c905d2f64ea74bb1fc1db\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\psj\.gradle\caches\transforms-2\files-2.1\59a37f5ab38ab0e159c9e1512e7f5cf3\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\psj\.gradle\caches\transforms-2\files-2.1\2e05caf93ddb3dddb0ebb906b2b87d7f\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\psj\.gradle\caches\transforms-2\files-2.1\c3cf5e3c45e1b69eaa37ded442b9f1da\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\psj\.gradle\caches\transforms-2\files-2.1\119b46fab25b005bb508b58b99e05a0c\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\psj\.gradle\caches\transforms-2\files-2.1\1d17ba005a64f4bf5f6c15a8b3dc4b68\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\psj\.gradle\caches\transforms-2\files-2.1\9770dc1e15e3218c06418ccf8f43e4ae\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\psj\.gradle\caches\transforms-2\files-2.1\d7207fe93a1adffaf8730edba3e7b229\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] C:\Users\psj\.gradle\caches\transforms-2\files-2.1\33104ac38076b6206a58e03dbca98e7c\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\psj\.gradle\caches\transforms-2\files-2.1\8fa885fe334b7b7b24cdab6cac116eaf\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\psj\.gradle\caches\transforms-2\files-2.1\a06282ce4faad5cb2495a49bb7efec61\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\psj\.gradle\caches\transforms-2\files-2.1\216dc0f4158e625d65b04cfad3351ac2\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\psj\.gradle\caches\transforms-2\files-2.1\b79e08789ac673e8496d66f8084bd0b3\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\psj\.gradle\caches\transforms-2\files-2.1\aa2b73ec4262186f4e899571e3858155\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\psj\Desktop\android\kakao-android-sdk-speech\app\src\main\AndroidManifest.xml:2:1-43:12
+INJECTED from C:\Users\psj\Desktop\android\kakao-android-sdk-speech\app\src\main\AndroidManifest.xml:2:1-43:12
+INJECTED from C:\Users\psj\Desktop\android\kakao-android-sdk-speech\app\src\main\AndroidManifest.xml:2:1-43:12
+	package
+		ADDED from C:\Users\psj\Desktop\android\kakao-android-sdk-speech\app\src\main\AndroidManifest.xml:4:5-43
+		INJECTED from C:\Users\psj\Desktop\android\kakao-android-sdk-speech\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\psj\Desktop\android\kakao-android-sdk-speech\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\psj\Desktop\android\kakao-android-sdk-speech\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\psj\Desktop\android\kakao-android-sdk-speech\app\src\main\AndroidManifest.xml:2:1-43:12
+		INJECTED from C:\Users\psj\Desktop\android\kakao-android-sdk-speech\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\psj\Desktop\android\kakao-android-sdk-speech\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\psj\Desktop\android\kakao-android-sdk-speech\app\src\main\AndroidManifest.xml:2:1-43:12
+		INJECTED from C:\Users\psj\Desktop\android\kakao-android-sdk-speech\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\psj\Desktop\android\kakao-android-sdk-speech\app\src\main\AndroidManifest.xml:3:5-63
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\psj\Desktop\android\kakao-android-sdk-speech\app\src\main\AndroidManifest.xml:6:5-67
+MERGED from [com.kakao.sdk:newtone:6.0.1] C:\Users\psj\.gradle\caches\transforms-2\files-2.1\87befee0c9ba778f0ad1e5feb281b6fa\AndroidManifest.xml:11:5-67
+MERGED from [com.kakao.sdk:newtone:6.0.1] C:\Users\psj\.gradle\caches\transforms-2\files-2.1\87befee0c9ba778f0ad1e5feb281b6fa\AndroidManifest.xml:11:5-67
+	android:name
+		ADDED from C:\Users\psj\Desktop\android\kakao-android-sdk-speech\app\src\main\AndroidManifest.xml:6:22-64
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from C:\Users\psj\Desktop\android\kakao-android-sdk-speech\app\src\main\AndroidManifest.xml:7:5-71
+MERGED from [com.kakao.sdk:newtone:6.0.1] C:\Users\psj\.gradle\caches\transforms-2\files-2.1\87befee0c9ba778f0ad1e5feb281b6fa\AndroidManifest.xml:12:5-71
+MERGED from [com.kakao.sdk:newtone:6.0.1] C:\Users\psj\.gradle\caches\transforms-2\files-2.1\87befee0c9ba778f0ad1e5feb281b6fa\AndroidManifest.xml:12:5-71
+	android:name
+		ADDED from C:\Users\psj\Desktop\android\kakao-android-sdk-speech\app\src\main\AndroidManifest.xml:7:22-68
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from C:\Users\psj\Desktop\android\kakao-android-sdk-speech\app\src\main\AndroidManifest.xml:8:5-79
+MERGED from [com.kakao.sdk:newtone:6.0.1] C:\Users\psj\.gradle\caches\transforms-2\files-2.1\87befee0c9ba778f0ad1e5feb281b6fa\AndroidManifest.xml:13:5-79
+MERGED from [com.kakao.sdk:newtone:6.0.1] C:\Users\psj\.gradle\caches\transforms-2\files-2.1\87befee0c9ba778f0ad1e5feb281b6fa\AndroidManifest.xml:13:5-79
+	android:name
+		ADDED from C:\Users\psj\Desktop\android\kakao-android-sdk-speech\app\src\main\AndroidManifest.xml:8:22-76
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\Users\psj\Desktop\android\kakao-android-sdk-speech\app\src\main\AndroidManifest.xml:9:5-81
+	android:name
+		ADDED from C:\Users\psj\Desktop\android\kakao-android-sdk-speech\app\src\main\AndroidManifest.xml:9:22-78
+uses-permission#android.permission.BLUETOOTH
+ADDED from C:\Users\psj\Desktop\android\kakao-android-sdk-speech\app\src\main\AndroidManifest.xml:10:5-68
+MERGED from [com.kakao.sdk:newtone:6.0.1] C:\Users\psj\.gradle\caches\transforms-2\files-2.1\87befee0c9ba778f0ad1e5feb281b6fa\AndroidManifest.xml:14:5-68
+MERGED from [com.kakao.sdk:newtone:6.0.1] C:\Users\psj\.gradle\caches\transforms-2\files-2.1\87befee0c9ba778f0ad1e5feb281b6fa\AndroidManifest.xml:14:5-68
+	android:name
+		ADDED from C:\Users\psj\Desktop\android\kakao-android-sdk-speech\app\src\main\AndroidManifest.xml:10:22-65
+application
+ADDED from C:\Users\psj\Desktop\android\kakao-android-sdk-speech\app\src\main\AndroidManifest.xml:12:5-41:19
+MERGED from [ai.api:sdk:2.0.7] C:\Users\psj\.gradle\caches\transforms-2\files-2.1\a1523f98c1ebcc6f5b545c93bf7e817d\AndroidManifest.xml:11:5-20
+MERGED from [ai.api:sdk:2.0.7] C:\Users\psj\.gradle\caches\transforms-2\files-2.1\a1523f98c1ebcc6f5b545c93bf7e817d\AndroidManifest.xml:11:5-20
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\psj\.gradle\caches\transforms-2\files-2.1\2e05caf93ddb3dddb0ebb906b2b87d7f\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\psj\.gradle\caches\transforms-2\files-2.1\2e05caf93ddb3dddb0ebb906b2b87d7f\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\psj\.gradle\caches\transforms-2\files-2.1\c3cf5e3c45e1b69eaa37ded442b9f1da\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\psj\.gradle\caches\transforms-2\files-2.1\c3cf5e3c45e1b69eaa37ded442b9f1da\AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] C:\Users\psj\.gradle\caches\transforms-2\files-2.1\2e05caf93ddb3dddb0ebb906b2b87d7f\AndroidManifest.xml:22:18-91
+	android:label
+		ADDED from C:\Users\psj\Desktop\android\kakao-android-sdk-speech\app\src\main\AndroidManifest.xml:13:9-41
+	android:icon
+		ADDED from C:\Users\psj\Desktop\android\kakao-android-sdk-speech\app\src\main\AndroidManifest.xml:14:9-37
+	android:allowBackup
+		ADDED from C:\Users\psj\Desktop\android\kakao-android-sdk-speech\app\src\main\AndroidManifest.xml:15:9-35
+	android:theme
+		ADDED from C:\Users\psj\Desktop\android\kakao-android-sdk-speech\app\src\main\AndroidManifest.xml:16:9-40
+activity#com.kakao.sdk.newtone.sample.SplashActivity
+ADDED from C:\Users\psj\Desktop\android\kakao-android-sdk-speech\app\src\main\AndroidManifest.xml:18:9-26:20
+	android:screenOrientation
+		ADDED from C:\Users\psj\Desktop\android\kakao-android-sdk-speech\app\src\main\AndroidManifest.xml:21:13-49
+	android:label
+		ADDED from C:\Users\psj\Desktop\android\kakao-android-sdk-speech\app\src\main\AndroidManifest.xml:20:13-45
+	android:theme
+		ADDED from C:\Users\psj\Desktop\android\kakao-android-sdk-speech\app\src\main\AndroidManifest.xml:19:13-44
+	android:name
+		ADDED from C:\Users\psj\Desktop\android\kakao-android-sdk-speech\app\src\main\AndroidManifest.xml:18:19-77
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\psj\Desktop\android\kakao-android-sdk-speech\app\src\main\AndroidManifest.xml:22:13-25:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\psj\Desktop\android\kakao-android-sdk-speech\app\src\main\AndroidManifest.xml:23:17-69
+	android:name
+		ADDED from C:\Users\psj\Desktop\android\kakao-android-sdk-speech\app\src\main\AndroidManifest.xml:23:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\psj\Desktop\android\kakao-android-sdk-speech\app\src\main\AndroidManifest.xml:24:17-77
+	android:name
+		ADDED from C:\Users\psj\Desktop\android\kakao-android-sdk-speech\app\src\main\AndroidManifest.xml:24:27-74
+activity#com.kakao.sdk.newtone.sample.SpeechSampleActivity
+ADDED from C:\Users\psj\Desktop\android\kakao-android-sdk-speech\app\src\main\AndroidManifest.xml:28:9-33:20
+	android:screenOrientation
+		ADDED from C:\Users\psj\Desktop\android\kakao-android-sdk-speech\app\src\main\AndroidManifest.xml:31:13-49
+	android:label
+		ADDED from C:\Users\psj\Desktop\android\kakao-android-sdk-speech\app\src\main\AndroidManifest.xml:29:13-45
+	android:theme
+		ADDED from C:\Users\psj\Desktop\android\kakao-android-sdk-speech\app\src\main\AndroidManifest.xml:30:13-71
+	android:name
+		ADDED from C:\Users\psj\Desktop\android\kakao-android-sdk-speech\app\src\main\AndroidManifest.xml:28:19-83
+activity#com.kakao.sdk.newtone.sample.VoiceRecoActivity
+ADDED from C:\Users\psj\Desktop\android\kakao-android-sdk-speech\app\src\main\AndroidManifest.xml:35:9-36:73
+	android:theme
+		ADDED from C:\Users\psj\Desktop\android\kakao-android-sdk-speech\app\src\main\AndroidManifest.xml:36:13-71
+	android:name
+		ADDED from C:\Users\psj\Desktop\android\kakao-android-sdk-speech\app\src\main\AndroidManifest.xml:35:19-80
+meta-data#com.kakao.sdk.AppKey
+ADDED from C:\Users\psj\Desktop\android\kakao-android-sdk-speech\app\src\main\AndroidManifest.xml:38:9-40:53
+	android:value
+		ADDED from C:\Users\psj\Desktop\android\kakao-android-sdk-speech\app\src\main\AndroidManifest.xml:40:13-50
+	android:name
+		ADDED from C:\Users\psj\Desktop\android\kakao-android-sdk-speech\app\src\main\AndroidManifest.xml:39:13-48
+uses-sdk
+INJECTED from C:\Users\psj\Desktop\android\kakao-android-sdk-speech\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\psj\Desktop\android\kakao-android-sdk-speech\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\psj\Desktop\android\kakao-android-sdk-speech\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:multidex:1.0.2] C:\Users\psj\.gradle\caches\transforms-2\files-2.1\7b99e248b769d23210096148eba7fcf4\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:multidex:1.0.2] C:\Users\psj\.gradle\caches\transforms-2\files-2.1\7b99e248b769d23210096148eba7fcf4\AndroidManifest.xml:20:5-43
+MERGED from [com.kakao.sdk:newtone:6.0.1] C:\Users\psj\.gradle\caches\transforms-2\files-2.1\87befee0c9ba778f0ad1e5feb281b6fa\AndroidManifest.xml:7:5-9:41
+MERGED from [com.kakao.sdk:newtone:6.0.1] C:\Users\psj\.gradle\caches\transforms-2\files-2.1\87befee0c9ba778f0ad1e5feb281b6fa\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\psj\.gradle\caches\transforms-2\files-2.1\d5923f091ce5080b76cea58c3ef4f1d5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\psj\.gradle\caches\transforms-2\files-2.1\d5923f091ce5080b76cea58c3ef4f1d5\AndroidManifest.xml:20:5-44
+MERGED from [ai.api:sdk:2.0.7] C:\Users\psj\.gradle\caches\transforms-2\files-2.1\a1523f98c1ebcc6f5b545c93bf7e817d\AndroidManifest.xml:7:5-9:41
+MERGED from [ai.api:sdk:2.0.7] C:\Users\psj\.gradle\caches\transforms-2\files-2.1\a1523f98c1ebcc6f5b545c93bf7e817d\AndroidManifest.xml:7:5-9:41
+MERGED from [com.kakao.sdk:newtone.core:1.1.1.OpenApi] C:\Users\psj\.gradle\caches\transforms-2\files-2.1\331f55ad80d27e979f8cde72133a2ae9\AndroidManifest.xml:6:5-8:41
+MERGED from [com.kakao.sdk:newtone.core:1.1.1.OpenApi] C:\Users\psj\.gradle\caches\transforms-2\files-2.1\331f55ad80d27e979f8cde72133a2ae9\AndroidManifest.xml:6:5-8:41
+MERGED from [com.kakao.sdk:network:1.1.36] C:\Users\psj\.gradle\caches\transforms-2\files-2.1\8ca3e1588d8a3d3cf12b372ec4087b86\AndroidManifest.xml:8:5-10:41
+MERGED from [com.kakao.sdk:network:1.1.36] C:\Users\psj\.gradle\caches\transforms-2\files-2.1\8ca3e1588d8a3d3cf12b372ec4087b86\AndroidManifest.xml:8:5-10:41
+MERGED from [com.kakao.sdk:util:1.2.2] C:\Users\psj\.gradle\caches\transforms-2\files-2.1\54e42d39b0d701164bfc0fd9eba4c0ac\AndroidManifest.xml:11:5-13:41
+MERGED from [com.kakao.sdk:util:1.2.2] C:\Users\psj\.gradle\caches\transforms-2\files-2.1\54e42d39b0d701164bfc0fd9eba4c0ac\AndroidManifest.xml:11:5-13:41
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\psj\.gradle\caches\transforms-2\files-2.1\86a7401587cc952311ad78ebe595f1a8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\psj\.gradle\caches\transforms-2\files-2.1\86a7401587cc952311ad78ebe595f1a8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\psj\.gradle\caches\transforms-2\files-2.1\7fd7a0202fd20da589709bae727e1e08\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\psj\.gradle\caches\transforms-2\files-2.1\7fd7a0202fd20da589709bae727e1e08\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\psj\.gradle\caches\transforms-2\files-2.1\34dffbbb29bd296ca8fa25312b7e8240\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\psj\.gradle\caches\transforms-2\files-2.1\34dffbbb29bd296ca8fa25312b7e8240\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\psj\.gradle\caches\transforms-2\files-2.1\ff460e25af1b56ddd34daad6f2eee907\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\psj\.gradle\caches\transforms-2\files-2.1\ff460e25af1b56ddd34daad6f2eee907\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\psj\.gradle\caches\transforms-2\files-2.1\af41ad2ba81bcaea0609058113e26b6c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\psj\.gradle\caches\transforms-2\files-2.1\af41ad2ba81bcaea0609058113e26b6c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\psj\.gradle\caches\transforms-2\files-2.1\40fc6c74e385c6aed4c0d3c19e0b5d86\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\psj\.gradle\caches\transforms-2\files-2.1\40fc6c74e385c6aed4c0d3c19e0b5d86\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\psj\.gradle\caches\transforms-2\files-2.1\9c2e97227ce620bd5efed7126ad631f3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\psj\.gradle\caches\transforms-2\files-2.1\9c2e97227ce620bd5efed7126ad631f3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\psj\.gradle\caches\transforms-2\files-2.1\68de24a02e26d036d108ffc96d5bb9a9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\psj\.gradle\caches\transforms-2\files-2.1\68de24a02e26d036d108ffc96d5bb9a9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\psj\.gradle\caches\transforms-2\files-2.1\ac083c63bf05cf0e2ad808a12ef53e0f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\psj\.gradle\caches\transforms-2\files-2.1\ac083c63bf05cf0e2ad808a12ef53e0f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\psj\.gradle\caches\transforms-2\files-2.1\9d19b606db68daa712ab8841e172c66e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\psj\.gradle\caches\transforms-2\files-2.1\9d19b606db68daa712ab8841e172c66e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\psj\.gradle\caches\transforms-2\files-2.1\7ad0526caf52e83f17c100dbe6ea344e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\psj\.gradle\caches\transforms-2\files-2.1\7ad0526caf52e83f17c100dbe6ea344e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\psj\.gradle\caches\transforms-2\files-2.1\e276eed1802c905d2f64ea74bb1fc1db\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\psj\.gradle\caches\transforms-2\files-2.1\e276eed1802c905d2f64ea74bb1fc1db\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\psj\.gradle\caches\transforms-2\files-2.1\59a37f5ab38ab0e159c9e1512e7f5cf3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\psj\.gradle\caches\transforms-2\files-2.1\59a37f5ab38ab0e159c9e1512e7f5cf3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\psj\.gradle\caches\transforms-2\files-2.1\2e05caf93ddb3dddb0ebb906b2b87d7f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\psj\.gradle\caches\transforms-2\files-2.1\2e05caf93ddb3dddb0ebb906b2b87d7f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\psj\.gradle\caches\transforms-2\files-2.1\c3cf5e3c45e1b69eaa37ded442b9f1da\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\psj\.gradle\caches\transforms-2\files-2.1\c3cf5e3c45e1b69eaa37ded442b9f1da\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\psj\.gradle\caches\transforms-2\files-2.1\119b46fab25b005bb508b58b99e05a0c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\psj\.gradle\caches\transforms-2\files-2.1\119b46fab25b005bb508b58b99e05a0c\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\psj\.gradle\caches\transforms-2\files-2.1\1d17ba005a64f4bf5f6c15a8b3dc4b68\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\psj\.gradle\caches\transforms-2\files-2.1\1d17ba005a64f4bf5f6c15a8b3dc4b68\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\psj\.gradle\caches\transforms-2\files-2.1\9770dc1e15e3218c06418ccf8f43e4ae\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\psj\.gradle\caches\transforms-2\files-2.1\9770dc1e15e3218c06418ccf8f43e4ae\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\psj\.gradle\caches\transforms-2\files-2.1\d7207fe93a1adffaf8730edba3e7b229\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\psj\.gradle\caches\transforms-2\files-2.1\d7207fe93a1adffaf8730edba3e7b229\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\psj\.gradle\caches\transforms-2\files-2.1\33104ac38076b6206a58e03dbca98e7c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\psj\.gradle\caches\transforms-2\files-2.1\33104ac38076b6206a58e03dbca98e7c\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\psj\.gradle\caches\transforms-2\files-2.1\8fa885fe334b7b7b24cdab6cac116eaf\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\psj\.gradle\caches\transforms-2\files-2.1\8fa885fe334b7b7b24cdab6cac116eaf\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\psj\.gradle\caches\transforms-2\files-2.1\a06282ce4faad5cb2495a49bb7efec61\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\psj\.gradle\caches\transforms-2\files-2.1\a06282ce4faad5cb2495a49bb7efec61\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\psj\.gradle\caches\transforms-2\files-2.1\216dc0f4158e625d65b04cfad3351ac2\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\psj\.gradle\caches\transforms-2\files-2.1\216dc0f4158e625d65b04cfad3351ac2\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\psj\.gradle\caches\transforms-2\files-2.1\b79e08789ac673e8496d66f8084bd0b3\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\psj\.gradle\caches\transforms-2\files-2.1\b79e08789ac673e8496d66f8084bd0b3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\psj\.gradle\caches\transforms-2\files-2.1\aa2b73ec4262186f4e899571e3858155\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\psj\.gradle\caches\transforms-2\files-2.1\aa2b73ec4262186f4e899571e3858155\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\psj\Desktop\android\kakao-android-sdk-speech\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\psj\Desktop\android\kakao-android-sdk-speech\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\psj\Desktop\android\kakao-android-sdk-speech\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\psj\Desktop\android\kakao-android-sdk-speech\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\psj\Desktop\android\kakao-android-sdk-speech\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\psj\Desktop\android\kakao-android-sdk-speech\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\psj\Desktop\android\kakao-android-sdk-speech\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\psj\Desktop\android\kakao-android-sdk-speech\app\src\main\AndroidManifest.xml

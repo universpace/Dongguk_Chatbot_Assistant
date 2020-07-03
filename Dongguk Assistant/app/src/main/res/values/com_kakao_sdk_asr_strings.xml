@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="MissingTranslation">
+    <string name="kakao_app_key">8338b6a7ca17e2e3ac9ce610aea67421</string>
+</resources>

@@ -1,0 +1,28 @@
+{
+  "id": "b127084d-2ead-474c-bd39-70fcba9c64fa",
+  "name": "Dahyang",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "ko",
+          "speech": "다향관에는 매점, 서점, 안경점, 사진관, 핸드폰 대리점 등 여러 편리한 서비스들이 모여있어요. 이용해보세요!"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

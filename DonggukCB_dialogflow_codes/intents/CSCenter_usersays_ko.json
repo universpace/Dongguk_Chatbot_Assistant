@@ -1,0 +1,113 @@
+[
+  {
+    "id": "997a4f36-cbb6-49e7-b661-62c528918170",
+    "data": [
+      {
+        "text": "학생증은 어디서 만들어?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "ad51455f-e342-488d-8e2e-a29e17fb3c45",
+    "data": [
+      {
+        "text": "학생증 재발급 받고싶어",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "a7334030-ea7a-4b50-afd1-4272b9dc22cd",
+    "data": [
+      {
+        "text": "학생증을 잃어버렸어",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "839a5f4f-91e6-4d7e-91fe-d46d2baceb43",
+    "data": [
+      {
+        "text": "비가오는데 우산",
+        "userDefined": false
+      },
+      {
+        "text": "이",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " 없어",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "e271a442-c60f-449e-bd6f-18821c4f0e1e",
+    "data": [
+      {
+        "text": "핸드폰 충전할 곳 없나?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "5833e9e2-31f7-4ef1-ab8b-03df380ee475",
+    "data": [
+      {
+        "text": "핸드폰 충전하고싶어",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "476fcb79-94ee-4011-b5f1-8212e755ed40",
+    "data": [
+      {
+        "text": "CS센터",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "는 뭐가 있어?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "533a9c23-4be8-4f1d-a517-e44eae0b75ba",
+    "data": [
+      {
+        "text": "우산",
+        "userDefined": false
+      },
+      {
+        "text": "이",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " 없어",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

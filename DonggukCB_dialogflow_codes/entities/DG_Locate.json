@@ -1,0 +1,9 @@
+{
+  "id": "15c12f7d-5618-438c-b7ce-f5314bb652cc",
+  "name": "DG_Locate",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

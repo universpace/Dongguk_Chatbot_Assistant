@@ -1,0 +1,202 @@
+[
+  {
+    "id": "f8601e88-9f3b-4031-802d-690074dc98b3",
+    "data": [
+      {
+        "text": "사진관 갈래",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "b40d6f1b-1859-45cd-b83e-b1b91611dbc8",
+    "data": [
+      {
+        "text": "사진관",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "ce53490d-21e2-4a4d-a515-8804b527616f",
+    "data": [
+      {
+        "text": "안경점",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "ca672603-adae-4dfd-86f6-6966add270e7",
+    "data": [
+      {
+        "text": "서점",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "0a5792ff-27d6-4f3b-94ed-51b0857cbd21",
+    "data": [
+      {
+        "text": "책 살래",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "44ce2549-ee9e-4ded-8069-d10092295a76",
+    "data": [
+      {
+        "text": "책 사야되는데",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "e3209acc-8a2f-4474-b8e4-c5c953cf818e",
+    "data": [
+      {
+        "text": "사진 찍고싶어",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "eb1dd2cc-6949-4923-aafa-2edfd7d0dc9e",
+    "data": [
+      {
+        "text": "증사 찍고싶어",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "98a8e97c-b578-4966-9e19-343889bfd240",
+    "data": [
+      {
+        "text": "증명사진 찍고싶어",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "1c7c2a5c-3b09-4962-b30c-706d025783d7",
+    "data": [
+      {
+        "text": "안경 부러졌어",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "4af0c27d-9834-4bc1-8f90-8aae8160257b",
+    "data": [
+      {
+        "text": "안경",
+        "userDefined": false
+      },
+      {
+        "text": "이",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " 부러졌는데",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "47144269-77c3-486c-8983-22f780826c38",
+    "data": [
+      {
+        "text": "책 사고 싶어",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "6096c9e5-7e15-4503-9de1-780685ae249a",
+    "data": [
+      {
+        "text": "서점 어디있어?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "576c4031-fa35-48fc-91d8-8f86dac54938",
+    "data": [
+      {
+        "text": "다향관",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "은 뭐하는 곳이야",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "6fc84984-4f3c-418b-9b48-43969868a569",
+    "data": [
+      {
+        "text": "다향관",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "에대해 알려줘",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "7060eb37-0c2d-4ce8-947d-208ba69dfba2",
+    "data": [
+      {
+        "text": "다향관",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "에는 뭐가 있어?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

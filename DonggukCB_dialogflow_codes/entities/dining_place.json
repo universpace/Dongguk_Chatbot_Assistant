@@ -1,0 +1,9 @@
+{
+  "id": "57e35c86-948b-42aa-ac9f-fdb44067f8d5",
+  "name": "dining_place",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": true,
+  "allowFuzzyExtraction": false
+}

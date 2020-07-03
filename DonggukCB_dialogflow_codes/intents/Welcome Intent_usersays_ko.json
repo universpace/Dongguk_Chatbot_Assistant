@@ -1,0 +1,30 @@
+[
+  {
+    "id": "1a6a4d3b-13ef-4a7b-b17d-d35cc22fe000",
+    "data": [
+      {
+        "text": "아코",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": "야 안녕!",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "8957f75b-dea1-41ff-83fd-6fc2e46dda94",
+    "data": [
+      {
+        "text": "안녕",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]
